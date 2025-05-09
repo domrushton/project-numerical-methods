@@ -1,0 +1,1 @@
+Using a variety of numerical methods (including tree models, finite difference methods and PDE methods) to price European, American, Lookback and Barrier options. Attached is a pdf containing the coursework questions for context, the written report and the code.
